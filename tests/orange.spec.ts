@@ -1,6 +1,6 @@
 import { expect, test } from "../fixtures/fixture";
 import LoginPage from './pages/LoginPage/loginPage';
-import * as testData from './testData/testData.json';
+import * as testData from './TestData/testData.json';
 
 
 test.describe('suite 1', ()=>{
